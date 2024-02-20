@@ -7,6 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:meme_generator/app/my_app.dart';
 
 import 'package:meme_generator/main.dart';
 
