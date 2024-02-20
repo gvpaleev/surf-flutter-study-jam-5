@@ -43,7 +43,8 @@ class Body extends StatelessWidget {
               Wrap(
                 alignment: WrapAlignment.center,
                 crossAxisAlignment: WrapCrossAlignment.center,
-                children: mems!
+                children: mems!.reversed
+                    .toList()
                     .map(
                       (bytes) => Image.memory(
                         bytes,
