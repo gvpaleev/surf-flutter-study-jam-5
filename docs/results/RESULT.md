@@ -31,7 +31,7 @@
 
 
 
-![Пример GIF](https://pouch.jumpshare.com/preview/nB9CVD1pvc9JbPtGFO7_4pJvc0fbgr9WipTLQnDvHfSGrq1lOpq0scDZQTlHxtfYgG7hE86RM9b_dnBjaoI5S3sYs7AqeTnRZlb-M2_RBdA)
+![Пример GIF](https://i.ibb.co/wg6wscw/meme-Generation.gif)
 
 ## License
 
